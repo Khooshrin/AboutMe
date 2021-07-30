@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Khooshrin</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Khooshrin.<br></br>
+        I like watching TV shows.<br></br><br></br>
+        Friends and B99 are my favourite.<br></br><br></br>
+    I like listening to Shawn Mendes.<br></br><br></br>
+    Iron Man is my favourite superhero.Then I like Spiderman.Then Captain America.
+        Loki is my favourite villain. I am 18 years old. I like to eat food.
+        Macaroni, Spaghetti, pasta, pizza, burger, fries,ice cream, desserts and many more food items are adored by me.<br></br><br></br><br></br>
+        Trisha, Teju, Kolady, Shriya, Kriti, Meghan and Natasha are my bestest friends.<br></br><br></br>
+            I study Computer Science and Information Systems Engineering at Birla Institue of Technology and Science Hyderabad Campus.
+            I am waiting for the campus to reopen.<br></br><br></br>
+        I am a non-vegetarian. I enjoy chinese food. I like to eat spicy food.
+        Mcdonalds, Pizza Hut, Starbucks, Coffee by D Bella, Ovenstory Pizza Kitchen, Sbarros are just few places I love to eat at.<br></br>
+
+        <br></br></string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
